@@ -1,0 +1,398 @@
+@media (max-width:991px) and (min-width:300px){
+    .navbar{
+        padding: 10px;
+    }
+    .navbar-container{
+        position: relative; 
+        padding: 23px 0;
+    }
+    .navbar-toggler{
+        position: absolute;
+        left: 0;
+        top: 0;
+        box-shadow: none;
+        border: none;
+        padding: 5px 0;
+    }
+    .navbar-logo{
+        position: absolute;
+        top: -12px;
+        left: 50%;
+        transform: translateX(-50%);
+        text-align: center;
+        margin-right: 0;
+    }
+    .navbar-icon{
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+    .navbar-nav{
+        padding: 35px 0;
+    }
+}
+
+@media (max-width:1450px) and (min-width:992px){
+    .container{
+        max-width: initial;
+        padding: 0 12px;
+    }
+    .navbar-logo{
+        text-align: center;
+    }
+    .navbar-nav{
+        padding: 0;
+    }
+    .nav-link{
+        padding: 12px 7px;
+        font-size: 13px;
+    }
+    .nav-pills {
+        padding: 25px 12px;
+    }
+    .sci-tech-video-section{
+        padding: 25px 12px;
+    }
+    .sci-tech-machine-section {
+        padding: 20px 12px;
+    }
+    .sci-tech-container{
+        padding: 40px 12px;
+    }
+    .sci-tech-fats-items{
+        flex-basis: 50%;
+    }
+    .sci-tech-fats-items img{
+        width: 100%;
+    }
+    .sci-tech-feature-section{
+        padding: 15px;
+    }
+    .sci-tech-delievery-right{
+        padding: 0 20px;
+    }
+    .sci-tech-ice-section{
+        padding: 40px 12px;
+    }
+    .pri-cycle-item{
+        flex-basis: 47%;
+        margin: 10px;
+    }
+    .pri-boxes-section{
+        padding: 54px 25px;
+    }
+    .pri-boxes-items{
+        flex: 1;
+    }
+    .pri-box-one{
+        padding: 0 10px;
+    }
+    .pri-box-two-content {
+        top: 20%;
+    }
+    .pri-box-three{
+        padding: 0 10px;
+    }
+    .pri-box-three p{
+        font-size: 13px;
+    }
+    .pri-box-five{
+        padding: 0 10px;
+    }
+}
+@media (max-width:991px) and (min-width:767px){
+    .sculpting-image{
+        height: 300px;
+    }
+    .nav-pills{
+        font-size: 14px;
+        padding: 20px 10px;
+    }
+    .sci-tech-header{
+        padding-top: 0;
+    }
+    .sci-tech-header strong{
+        font-size: 30px;
+    }
+    .sci-tech-video-left{
+        padding: 10px 20px;
+        padding-right: 0;
+    }
+    .sci-tech-video-right{
+        padding: 10px 20px;
+    }
+    .sci-tech-common-button{
+        display: flex;
+        justify-content: center;
+    }
+    .sci-tech-button{
+        padding: 8px 0;
+        min-width: 100%;
+        font-size: 16px;
+    }
+    .sci-tech-machine-section{
+        padding: 20px 12px;
+    }
+    .machine-section-right {
+        padding: 20px 0;
+    }
+    .machine-sec-list li{
+        font-size: 16px;
+    }
+    .sci-tech-fats-header h1{
+        font-size: 22px;
+    }
+    .sci-tech-fats-items{
+        flex-basis: 50%;
+    }
+    .sci-tech-fats-items img{
+        width: 100%;
+    }
+    .sci-tech-feature-header h1{
+        font-size: 22px;
+    }
+    .sci-tech-feature-content{
+        padding: 20px 12px;
+    }
+    .sci-tech-delievery-section{
+        padding: 0;
+    }
+    .sci-tech-delievery-right{
+        padding: 30px;
+    }
+    .sci-tech-ice-section{
+        padding: 0;
+    }
+    .sci-tech-ice-right{
+        padding: 30px;
+    }
+    .pri-cycle-item{
+        flex-basis: 47%;
+        margin: 10px;
+    }
+    .pri-header{
+        padding-top: 0;
+    }
+    .pri-header strong{
+        font-size: 30px;
+    }
+    .pri-boxes-section{
+        flex-direction: column;
+        padding: 0 30px;
+    }
+    .pri-boxes-section .row{
+        flex-direction: column;
+    }
+    .sci-tech-ice-right{
+        flex: initial;
+    }
+    .pri-box-two-image img{
+        height: 230px;
+    }
+    .pri-box-three{
+        padding: 30px;
+    }
+    .pri-box-four-content img {
+        height: 230px;
+    }
+    .pri-box-five{
+        padding: 40px 12px;
+    }
+    .pri-conditions-section{
+        padding: 20px 0;
+    }
+    .footer-container{
+        max-width: 80%;
+    }
+}
+@media (max-width:766px) and (min-width:300px){
+    .container{
+        max-width: 100%;
+    }
+    .left-header-content{
+        flex-basis: 50%;
+        padding: 0;
+        justify-content: flex-start;
+        padding: 0 12px;
+    }
+    .right-header-content{
+        flex-basis: 50%;
+        padding: 0 12px;
+    }
+    .header-button{
+        padding: 7px;
+        width: 100%;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .sculpting-image {
+        height: 100px;
+    }
+    .nav-pills{
+        flex-direction: column;
+        padding: 20px 0;
+    }
+    .nav-pills .nav-link{
+        padding: 15px;
+    }
+    .sci-tech-video-section {
+        padding: 0 35px;
+    }
+    .sci-tech-header strong {
+        font-size: 20px;
+    }
+    .sci-tech-video-right{
+        text-align: center;
+        padding: 12px;
+    }
+    .sci-tech-common-button button{
+        min-width: 90%;
+        margin: auto;
+        font-size: 14px;
+    }
+    .sci-tech-free-consult-button button{
+        width: 90%;
+        margin: auto;
+        font-size: 16px;
+        
+    }
+    .sci-tech-machine-section{
+        padding: 0 35px;
+    }
+    .machine-section-left li{
+        font-size: 16px;
+    }
+    .machine-section-right {
+        padding: 20px 0;
+    }
+    .sci-tech-fats-header h1 {
+        font-size: 20px;
+    }  
+    .sci-tech-fats-items{
+        flex-basis: 100%;
+    }  
+    .sci-tech-fats-items img{
+        width: 100%;
+    }
+    .sci-tech-feature-header h1{
+        font-size: 20px;
+    }
+    .sci-tech-feature-icon{
+        width: 70px;
+        height: 70px;
+        line-height: 70px;
+    }
+    .sci-tech-feature-icon svg{
+        width: 70px;
+    }
+    .feature-items-content{
+        padding-left: 12px;
+    }
+    .sci-tech-feature-items{
+        padding: 10px;
+    }
+    .sci-tech-delievery-right{
+        padding: 0 20px;
+    }
+    .sci-tech-ice-left{
+        padding: 0 20px;
+    }
+    .sci-tech-common-header{
+        font-size: 22px;
+    }
+    .sci-tech-source-items img{
+        width: 100%;
+    }
+    .slash:after{
+        width: 1px;
+    }
+    .footer-items a{
+        font-size: 11px;
+    }
+    .pri-header strong{
+        font-size: 20px;
+    }
+    .pri-normal-text{
+        padding: 12px;
+    }
+    .pri-cycle-item{
+        flex-basis: 90%;
+        margin:12px  auto;
+    }
+    .pri-boxes-section{
+        padding: 0 20px;
+        flex-direction: column;
+    }
+    .pri-boxes-section .row{
+        flex-direction: column;
+    }
+    .sci-tech-ice-right{
+        flex: initial;
+    }
+    .pri-box-two-image img{
+        height: 230px;
+    }
+    .pri-box-three{
+        padding: 30px;
+    }
+    .pri-box-four-content img {
+        height: 230px;
+    }
+    .pri-box-five{
+        padding: 40px 12px;
+    }
+    .pri-conditions-section{
+        padding: 20px 12px;
+    }
+    .footer-container{
+        max-width: 100%;
+    }
+    .treat-free-consult-button button{
+        width: 90%;;
+        margin: auto;
+        font-size: 16px;
+    }
+    .treat-before-chin img{
+        width: 100%;
+    }
+    .treat-after-chin img{
+        width: 100%;
+    }
+    .faqs-frequently-title{
+        display: flex;
+        justify-content: center;
+    }
+    .faqs-frequently-title strong{
+        font-size: 18px;
+    }
+    .accordion-button{
+        font-size: 16px;
+    }
+    .accordion-body p{
+        font-size: 14px;
+    }
+    .faqs-frequently-section{
+        padding: 12px;
+    }
+    .faqs-content{
+        padding: 0 20px;
+    }
+    .faqs-frequently-content{
+        padding: 20px 0;
+    }
+    .team-image img{
+        width: 100%;
+    }
+    .team-section{
+        padding: 20px;
+    }
+    .team-free-consult-button button{
+        width: 90%;
+        margin: auto;
+        font-size: 16px;
+    }
+    .treat-chin-content .col-md-6{
+        display: flex;
+        justify-content: center;
+    }
+}
